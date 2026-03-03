@@ -57,6 +57,7 @@ src/openocd
 src/openocd.exe
 
 # configure/autotools output
+/build*
 /build-aux/
 aclocal.m4
 autom4te.cache
