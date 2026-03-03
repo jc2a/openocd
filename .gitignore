@@ -88,6 +88,9 @@ patches
 # VSCode stuff
 .vscode
 
+# JetBrains stuff
+.idea
+
 # Emacs temp files
 *~
 
